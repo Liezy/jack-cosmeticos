@@ -207,7 +207,7 @@ function setupEventListeners() {
 
 // Send order to WhatsApp
 function sendToWhatsApp() {
-    const phoneNumber = '5563984519814';
+    const phoneNumber = '556384004598';
     let message = '*Ola! Gostaria de fazer um pedido:*\n\n';
     
     cart.forEach(item => {
